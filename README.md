@@ -4,4 +4,4 @@
  Estou  apredendo a criar sites e agora vou gerenciar meus repositórios!
 
 
- <a href= "https://rafaelgomeshtml.github.io/proheto-android/"> Executar o exercicio  </a>
+ <a href= "https://rafaelgomeshtml.github.io/projeto-android/"> Executar o exercicio  </a>
